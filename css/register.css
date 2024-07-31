@@ -1,0 +1,60 @@
+
+.row1 {
+    margin-top: -4.2%;
+    height: 150px;
+   
+    
+    
+    
+    
+}
+
+.row2 {
+    
+    
+    height: 85px;
+    font-size: 35PX;
+    text-align: center;
+}
+
+.row3 {
+    
+    height: 100px;
+    width: 1050px;
+    
+    
+}
+
+.col{
+    display: inline-block;
+    
+    
+}
+.card {
+    /*position: relative;
+    */top: 30px;
+    left: 385px;
+    display: inline-block;
+ width: 800px;
+ height: auto;
+ border-radius: 50px;
+ background: #e0e0e0;
+ box-shadow: 20px 20px 60px #bebebe,
+               -20px -20px 60px #ffffff;
+
+ 
+}
+
+.card, label
+{
+    padding: 35px;
+}
+
+.container{
+    padding-top: 50px;
+}
+.form-control small{
+    visibility: hidden;
+   
+
+}

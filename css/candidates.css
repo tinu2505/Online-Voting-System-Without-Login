@@ -1,0 +1,36 @@
+.row{
+    padding-top: 20px;
+}
+
+.col
+{
+    display: inline-block;
+    height: 100%;
+    width: 33.33%;
+    margin: 6px;
+    
+}
+
+.col > p
+{
+    font-weight: bold;
+}
+
+table{
+    text-align: center;
+    margin: 30px;
+    /*border: solid 2px black;
+    border-collapse: collapse;
+    */font-size: 20px;
+
+    
+}
+
+th{
+    padding: 15px;
+}
+
+td{
+  padding: 10px;  
+}
+
